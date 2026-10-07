@@ -1,4 +1,5 @@
 [![Crowdin](https://badges.crowdin.net/retroarch/localized.svg)](https://crowdin.com/project/retroarch)
+#All Information currently from original Retroarch GitHub page
 
 # RetroArch
 
